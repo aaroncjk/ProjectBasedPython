@@ -36,3 +36,7 @@ print(f"Total Contributions: ${total_contributions:.2f}")
 print(f"Total Interest: ${total_interest:.2f}")
 print(f"Final Balance: ${balance:.2f}")
 # this is basically the summary of after the total(i) years of compounding. I would add a graph of the compound effect
+
+
+#include libraries pip3 install matplotlib
+import matpotlib.pylot as plt
